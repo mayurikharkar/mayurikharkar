@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayurikharkar a Computer Technology Engineering student passionate about coding, technology, and creative solutions."
 - 👀 I’m interested in programming, exploring art in my free time, sports." 
-- 🌱 I’m currently learning  Currently exploring advanced algorithms and preparing for placement opportunities."
+- 🌱 I’m currently exploring advanced algorithms and preparing for placement opportunities."
 - 💞️ I’m looking to collaborate on - Open-source projects in "web development", "data structures", or "AI".  
               Innovative "team projects" to solve real-world problems.  
 
