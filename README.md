@@ -1,14 +1,18 @@
-- 👋 Hi, I’m @mayurikharkar a Computer Technology Engineering student passionate about coding, technology, and creative solutions."
-- 👀 I’m interested in programming, exploring art in my free time, sports." 
-- 🌱 I’m currently exploring advanced algorithms and preparing for placement opportunities."
-- 💞️ I’m looking to collaborate on - Open-source projects in "web development", "data structures", or "AI".  
-              Innovative "team projects" to solve real-world problems.  
+## Hi, I'm Mayuri 👋
 
-- 📫 How to reach me   Email: mayurikharkar04@gmail.com
- 
+🎓 Computer Technology Engineering Student  
+💻 Learning Java, DSA, and Web Development  
+🌱 GSSoC 2026 Participant  
+🚀 Interested in Open Source Development
+
+## Skills
+- Java
+- Git & GitHub
+- HTML/CSS
+- Problem Solving
   Linkdin:https://www.linkedin.com/in/mayuri-kharkar-81b93b325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm keen intersented in art (sketching and painting) and Sports.
+
 
 <!---
 mayurikharkar/mayurikharkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
