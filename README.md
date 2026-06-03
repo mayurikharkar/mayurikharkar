@@ -1,98 +1,157 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Mayuri%20Kharkar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Building%20Tomorrow's%20Solutions%20Today&descSize=16&descAlignY=75&descFontColor=a78bfa"/>
+</div>
 
-<!-- Animated Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mayuri%20Kharkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=18)
+<br/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=👋+Hi+there!+I'm+Mayuri+Kharkar;💻+TY+B.Tech+%7C+Computer+Technology;🌟+GSSoC+2026+Contributor+%7C+Google+Cloud)](https://git.io/typing-svg)
-
----
-
-<!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=mayurikharkar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuri-kharkar-123m)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurikharkar04@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayurikharkar)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&lines=🎓+Final+Year+B.Tech+%7C+Computer+Technology;☁️+Google+Cloud+Certified+%7C+Gen+AI+Leader+Path;🌍+GSSoC+2026+Open+Source+Contributor;☕+Java+Developer+who+debugs+with+chai)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🙋‍♀️ About Me
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-```java
-public class Mayuri {
-    String name        = "Mayuri Kharkar";
-    String college     = "Priyadarshini College of Engineering, Nagpur";
-    String degree      = "B.Tech Computer Technology (TY)";
-    String[] roles     = {"GSSoC 2026 Contributor", "Google Cloud Learner", 
-                          "Java Developer", "Open Source Enthusiast"};
-    String email       = "mayurikharkar04@gmail.com";
-    String location    = "Nagpur, Maharashtra, India 🇮🇳";
-    
-    String[] currentlyLearning = {"Data Structures & Algorithms", 
-                                   "Generative AI", "Cloud Computing"};
-    String funFact     = "I debug with chai ☕ and fix bugs with determination 💪";
-}
+### 👩‍💻 Who Am I?
+
+```yaml
+name: Mayuri Kharkar
+location: Nagpur, Maharashtra 🇮🇳
+college: Priyadarshini College of Engg.
+degree: B.Tech - Computer Technology
+year: Final Year (TY)
+
+passion:
+  - Clean Code
+  - Open Source
+  - Cloud & AI
+  - Problem Solving
+
+currently:
+  - GSSoC 2026 Contributor
+  - Google Cloud AI Certification
+  - DSA with Java
+  - CodeAlpha Internship
+
+motto: "Ship it. Fix it. Repeat."
 ```
 
+</td>
+<td align="center" width="50%">
+
+### 🎯 Quick Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mayurikharkar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurikharkar&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
-| 🎖️ Achievement | 📅 Date | 🏢 Issuer |
-|---|---|---|
-| ✅ Gen AI: Unlock Foundational Concepts | May 2026 | Google Cloud |
-| ✅ Gen AI: Navigate the Landscape | May 2026 | Google Cloud |
-| ✅ Gen AI: Apps Transform Your Work | June 2026 | Google Cloud |
-| ✅ GSSoC 2026 Contributor | May–Aug 2026 | GirlScript Foundation |
-| ✅ Virtual Internship — Java Programming | 2026 | CodeAlpha |
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    🎖️  EARNED CREDENTIALS                       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ☁️  Gen AI: Unlock Foundational Concepts    │  Google Cloud     ║
+║  ☁️  Gen AI: Navigate the Landscape          │  Google Cloud     ║
+║  ☁️  Gen AI: Apps Transform Your Work        │  Google Cloud     ║
+║  🌍  GSSoC 2026 Contributor                  │  GirlScript       ║
+║  💼  Java Programming Virtual Internship     │  CodeAlpha        ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Core Languages**
 
-### 🌐 Web & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### ☁️ Cloud & Tools
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Web & Frameworks**
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+
+**Cloud & DevOps**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Projects Showcase
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayurikharkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurikharkar&theme=tokyonight&hide_border=true" />
+| # | Project | Tech Stack | Highlights |
+|---|---------|-----------|------------|
+| 01 | 🎓 **Student Grade Tracker** | `Java` `ArrayList` `OOP` | Avg/High/Low scores + Summary reports |
+| 02 | 📈 **Stock Trading Platform** | `Java` `OOP` `Collections` | Live price simulation + Portfolio tracker |
+| 03 | 🤖 **AI Rule-Based Chatbot** | `Java` `NLP Logic` `HashMap` | Keyword matching + Sentiment analysis |
+| 04 | 🏨 **Hotel Reservation System** | `Java` `File I/O` `OOP` | Book/Cancel rooms + Payment simulation |
+| 05 | 🏦 **Banking Management System** | `Java` `OOP` | Full banking operations |
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurikharkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+## 🌍 Open Source — GSSoC 2026
+
+<div align="center">
+
+![GSSoC Badge](https://img.shields.io/badge/GSSoC_2026-Active_Contributor-FF6B35?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+> 🏛️ **Project:** [Nyay Setu](https://nyaysetu-lovat.vercel.app/) — *Digitalization of Judiciary System*
+>
+> 📄 **Contribution:** Added `ARCHITECTURE.md` — a complete guide to the project structure to help new contributors onboard faster.
+>
+> 🔗 **PR:** [#712 — docs: Add ARCHITECTURE.md for new contributors](https://github.com/viru0909-dev/nyay-setu-working/pull/712)
+
+---
+
+## 📊 Language Distribution
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurikharkar&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=6" width="35%"/>
 
 </div>
 
@@ -102,81 +161,64 @@ public class Mayuri {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mayurikharkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mayurikharkar&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Student Grade Tracker](https://github-readme-stats.vercel.app/api/pin/?username=mayurikharkar&repo=CodeAlpha_StudentGradeTracker&theme=tokyonight&hide_border=true)](https://github.com/mayurikharkar/CodeAlpha_StudentGradeTracker)
-[![Banking Management System](https://github-readme-stats.vercel.app/api/pin/?username=mayurikharkar&repo=BankingManagementSystem&theme=tokyonight&hide_border=true)](https://github.com/mayurikharkar/BankingManagementSystem)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayurikharkar&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-### 💼 All Projects:
-
-| 🚀 Project | 💻 Tech | 📝 Description |
-|---|---|---|
-| 🎓 Student Grade Tracker | Java | Input & manage student grades with summary reports |
-| 📈 Stock Trading Platform | Java + OOP | Simulate stock market with buy/sell operations |
-| 🤖 AI Chatbot | Java + NLP | Rule-based intelligent chatbot with chat history |
-| 🏨 Hotel Reservation System | Java + File I/O | Book, manage & cancel hotel rooms with payment |
-| 🏦 Banking Management System | Java | Complete banking operations system |
-
 ---
 
-## 🌱 Open Source Contributions
+## 🎯 2026 Roadmap
 
 <div align="center">
-
-![GSSoC](https://img.shields.io/badge/GSSoC_2026-Contributor-orange?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-### 🔥 GSSoC 2026 — Nyay Setu Project
-- ✅ Added `ARCHITECTURE.md` to help new contributors understand project structure
-- 🔗 Project: **Nyay Setu** — Digitalization of Judiciary System
-- 📌 PR: [#712 — docs: Add ARCHITECTURE.md for new contributors](https://github.com/viru0909-dev/nyay-setu-working/pull/712)
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayurikharkar&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🎯 Current Goals 2026
 
 ```
-✅ Complete Google Cloud Generative AI Leader Certification
-✅ Contribute to GSSoC 2026
-🔄 Master Data Structures & Algorithms in Java
-🔄 Build 5+ strong GitHub projects
-⬜ Get placed in a top IT company
-⬜ Achieve 10 Days Google Skills Boost streak
+ COMPLETED ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [✅] Google Cloud Gen AI Leader Certification (3 badges)
+  [✅] GSSoC 2026 — First PR merged
+  [✅] CodeAlpha Java Internship Tasks
+
+ IN PROGRESS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [🔄] Data Structures & Algorithms — Java
+  [🔄] More GSSoC Contributions
+  [🔄] Building Portfolio Projects
+
+ UPCOMING ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [⬜] Campus Placement Preparation
+  [⬜] 10+ GitHub Repositories
+  [⬜] Crack Top IT Company
 ```
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuri-kharkar-123m)
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurikharkar04@gmail.com)
+<a href="https://www.linkedin.com/in/mayuri-kharkar-123m">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mayurikharkar04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mayurikharkar&style=for-the-badge&color=a78bfa&label=Profile+Views"/>
 
-💬 **Ask me about:** Java, Open Source, Google Cloud, GSSoC, DSA
+<br/><br/>
 
-⚡ **Fun fact:** I completed 3 Google Cloud certifications in a single day! 🚀
+💬 **Open to discuss:** Java • DSA • Open Source • Google Cloud • GSSoC • Internships
 
 </div>
 
@@ -184,8 +226,10 @@ public class Mayuri {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+*"First, solve the problem. Then, write the code."* — John Johnson
 
-⭐ *If you like my profile, consider giving my repos a star!* ⭐
+![](https://hit.yhype.me/github/profile?user_id=mayurikharkar)
+
+</div>
